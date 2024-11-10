@@ -8,8 +8,29 @@
 
 
 <url>
-  <loc>https://arwaassociates.co.ke/</loc>
-  <lastmod>2024-11-09T21:38:09+00:00</lastmod>
+  <loc>https://floresaparte.com/</loc>
+  <lastmod>2024-11-10T20:02:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://floresaparte.com/cart</loc>
+  <lastmod>2024-11-10T20:02:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://floresaparte.com/store</loc>
+  <lastmod>2024-11-10T20:02:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://floresaparte.com/all-prints</loc>
+  <lastmod>2024-11-10T20:02:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://floresaparte.com/about</loc>
+  <lastmod>2024-11-10T20:02:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
