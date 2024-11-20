@@ -25,7 +25,7 @@ define('APP_TITLE', 'belawan');
 $use_auth = true;
 
 $auth_users = array(
-    'belawan' => '$2y$10$pej8oLp62CFdXcz/RZ3Le.ymvuxb9mYd2sFs.NJHcTICx2X3/in7m'
+    'belawan' => '$2y$10$e3G4KPAuFE6lj9MlUoFqset7yLbQi0ACbMCOOJFDBYEVtSev5zk8O'
 );
 
 // Readonly users
