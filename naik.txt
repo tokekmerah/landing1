@@ -6,13 +6,13 @@
     <title>Mahjong dan Slot Online: Sejarah, Strategi Bermain, dan Tips Menang Terbaik</title>
     <meta name="description" content="Pelajari sejarah Mahjong dan Slot Online, serta temukan strategi bermain dan tips menang terbaik yang cocok untuk pemula hingga pemain berpengalaman." />
     <meta http-equiv='x-dns-prefetch-control' content='on'>
-    <meta name="og:url" content="http://jurnal.pppkmi.org/" />
+    <meta name="og:url" content="https://jurnal.pppkmi.org/" />
     <meta name="og:title" content="Mahjong dan Slot Online: Sejarah, Strategi Bermain, dan Tips Menang Terbaik" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Pelajari sejarah Mahjong dan Slot Online, serta temukan strategi bermain dan tips menang terbaik yang cocok untuk pemula hingga pemain berpengalaman." />
     <meta name="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBsnSgcpuUWaDfB2BIyqFAuXmBJ8H4W8YfbHS9RMTOt5U7uxnmjcxObX-Lcz_sOngbq8Vn_Qd2r3rIHzZWn6J8LSVks6hwn-Ee-5aJKCKbIYzltQK9_MkAfGjH7KXMr22hj6nVk_zqJKXcMMPuT29prQyi6v8kibCA-wdhYQFUeEVq85k88W-qro1nF2YS/s800/NONO4D-8-Recovered-Recovered-Recovered-Recovered.jpg" />
     <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguhJPEnrpIWQquClicL1Tl_i__MKHILcFZkOO51n3jmFfCBBvYtFSwph94MEK85-0c-gD7uZ5AsXHAeK-LHvKL9H_MlGzdFCDsXvrt7-8Q9gkBmRGTwrYwWHhDbejbhx__CXpj-kzHJl4wGCorZeoaIjJFpxNItLhvawBV2eiQXhcG4lC7AemjwmyiR75q/s800/NONO4Ds_0.png" />
-    <link rel="canonical" href="http://jurnal.pppkmi.org/" />
+    <link rel="canonical" href="https://jurnal.pppkmi.org/" />
     <link rel="amphtml" href="https://dontddos.xyz/amp-belawan/pppkmi/"/>
     <link rel="dns-prefetch" href="https://images-fe.ssl-images-amazon.com">
     <link rel="dns-prefetch" href="https://m.media-amazon.com">
@@ -714,15 +714,15 @@
                         <div id='nav-xshop-container'>
                             <div id='nav-xshop' class="nav-progressive-content">
                                 <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
-                                <a href="http://jurnal.pppkmi.org/" class="nav-a  " tabindex="0"
+                                <a href="https://jurnal.pppkmi.org/" class="nav-a  " tabindex="0"
                                     data-csa-c-type="link" data-csa-c-slot-id="nav_cs_0"
                                     data-csa-c-content-id="nav_cs_bestsellers">SLOT</a>
-                                <a href="http://jurnal.pppkmi.org/" class="nav-a  "
+                                <a href="https://jurnal.pppkmi.org/" class="nav-a  "
                                     data-ux-jq-mouseenter="true" id="nav-link-amazonprime" tabindex="0"
                                     data-csa-c-type="link" data-csa-c-slot-id="nav-link-amazonprime"
                                     data-csa-c-content-id="nav_cs_primelink_nonmember"><span>Mahjong LOGIN</span><span
                                         class="nav-icon nav-arrow"></span></a>
-                                <a href="http://jurnal.pppkmi.org/" class="nav-a  " tabindex="0" data-csa-c-type="link"
+                                <a href="https://jurnal.pppkmi.org/" class="nav-a  " tabindex="0" data-csa-c-type="link"
                                     data-csa-c-slot-id="nav_cs_2" data-csa-c-content-id="nav_cs_gb">Mahjong DAFTAR</a>
                             
                                 <script
@@ -751,25 +751,25 @@
                 <div id="nav-progressive-subnav">
                     <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
                     <div id='nav-subnav' data-category="amazon-home">
-                        <a href="http://jurnal.pppkmi.org/"
+                        <a href="https://jurnal.pppkmi.org/"
                             class="nav-a nav-b" aria-label="Amazon devices">
                             <span class="nav-a-content">
                                 SITUS SLOT ONLINE
                             </span>
                         </a>
-                        <a href="http://jurnal.pppkmi.org/"
+                        <a href="https://jurnal.pppkmi.org/"
                             class="nav-a" aria-label="Echo & Alexa">
                             <span class="nav-a-content">
                                 LINK SLOT ONLINE
                             </span>
                         </a>
-                        <a href="http://jurnal.pppkmi.org/"
+                        <a href="https://jurnal.pppkmi.org/"
                             class="nav-a" aria-label="Kindle E-Reader">
                             <span class="nav-a-content">
                                 REKOMENDASI SLOT ONLINE
                             </span>
                         </a>
-                        <a href="http://jurnal.pppkmi.org/" class="nav-a" aria-label="Fire TV">
+                        <a href="https://jurnal.pppkmi.org/" class="nav-a" aria-label="Fire TV">
                             <span class="nav-a-content">
                                 SLOT ONLINE TERBARU
                             </span>
@@ -1580,7 +1580,7 @@
             {
               "@context": "https://schema.org",
               "@type": "SoftwareApplication",
-              "name": "http://jurnal.pppkmi.org/",
+              "name": "https://jurnal.pppkmi.org/",
               "operatingSystem": "ANDROID",
               "applicationCategory": "GameApplication",
               "aggregateRating": {
@@ -1618,42 +1618,42 @@
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
-                  "@id": "http://jurnal.pppkmi.org/",
+                  "@id": "https://jurnal.pppkmi.org/",
                   "name": "Mahjong"
                 }
               }, {
                 "@type": "ListItem",
                 "position": 2,
                 "item": {
-                  "@id": "http://jurnal.pppkmi.org/",
+                  "@id": "https://jurnal.pppkmi.org/",
                   "name": "SITUS SLOT ONLINE"
                 }
               }, {
                 "@type": "ListItem",
                 "position": 3,
                 "item": {
-                  "@id": "http://jurnal.pppkmi.org/",
+                  "@id": "https://jurnal.pppkmi.org/",
                   "name": "LINK SLOT ONLINE"
                 }
               }, {
                 "@type": "ListItem",
                 "position": 4,
                 "item": {
-                  "@id": "http://jurnal.pppkmi.org/",
+                  "@id": "https://jurnal.pppkmi.org/",
                   "name": "REKOMENDASI SLOT ONLINE"
                 }
               }, {
                 "@type": "ListItem",
                 "position": 5,
                 "item": {
-                  "@id": "http://jurnal.pppkmi.org/",
+                  "@id": "https://jurnal.pppkmi.org/",
                   "name": "SLOT ONLINE TERBARU"
                 }
               }]
             }
           </script>
           <script type="application/ld+json">
-            {"@type":"Product","@context":"https://schema.org","name":"Mahjong dan Slot Online: Sejarah, Strategi Bermain, dan Tips Menang Terbaik","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Mahjong","url":"http://jurnal.pppkmi.org/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Pelajari sejarah Mahjong dan Slot Online, serta temukan strategi bermain dan tips menang terbaik yang cocok untuk pemula hingga pemain berpengalaman.","url":"http://jurnal.pppkmi.org/","offers":{"@type":"Offer","url":"http://jurnal.pppkmi.org/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+            {"@type":"Product","@context":"https://schema.org","name":"Mahjong dan Slot Online: Sejarah, Strategi Bermain, dan Tips Menang Terbaik","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Mahjong","url":"https://jurnal.pppkmi.org/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Pelajari sejarah Mahjong dan Slot Online, serta temukan strategi bermain dan tips menang terbaik yang cocok untuk pemula hingga pemain berpengalaman.","url":"https://jurnal.pppkmi.org/","offers":{"@type":"Offer","url":"https://jurnal.pppkmi.org/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
           </script>
           
         <script type="text/javascript">
@@ -2100,7 +2100,7 @@
                                 <div id="mars-fs-subnav-helper">
                                     <div id="mars-fs-border-top"></div>
                                     <span class="subnav-home">
-                                        <a class="a-link-normal fs-links" href="http://jurnal.pppkmi.org/">
+                                        <a class="a-link-normal fs-links" href="https://jurnal.pppkmi.org/">
                                             <span id="mars-fs-name" class="a-size-base-plus a-color-base a-text-bold">
                                                 SITUS SLOT ONLINE
                                             </span>
@@ -2110,7 +2110,7 @@
                                         data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                         <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="http://jurnal.pppkmi.org/">
+                                                href="https://jurnal.pppkmi.org/">
                                                 <span class="a-size-base-plus a-color-base">
                                                     LINK SLOT ONLINE
                                                 </span>
@@ -2121,7 +2121,7 @@
                                         data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                         <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="http://jurnal.pppkmi.org/">
+                                                href="https://jurnal.pppkmi.org/">
                                                 <span class="a-size-base-plus a-color-base">
                                                     REKOMENDASI SLOT ONLINE
                                                 </span>
@@ -2132,7 +2132,7 @@
                                         data-csa-c-func-deps="aui-da-mars-fs-hover" data-mars-fs-hover="{}">
                                         <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
-                                                href="http://jurnal.pppkmi.org/">
+                                                href="https://jurnal.pppkmi.org/">
                                                 <span class="a-size-base-plus a-color-base">
                                                     SLOT ONLINE TERBARU
                                                 </span>
@@ -2381,7 +2381,7 @@
                                                                                 class="cip-a-size-small">
                                                                                 <div
                                                                                     id="contextualIngressPtLabel_deliveryShortLine">
-                                                                                    <a href="http://jurnal.pppkmi.org/">
+                                                                                    <a href="https://jurnal.pppkmi.org/">
                                                                                         <span>Situs Slot Gacor Mahjong</span>
                                                                                     </a>
                                                                                 </div>
@@ -3446,7 +3446,7 @@
                             data-csa-c-is-in-initial-active-row="false">
                             <!--This check is an indicator on whether to show the Premium Fashion brand logo byline regardless of weblab treatment-->
                             <div class="a-section a-spacing-none"> <a id="bylineInfo" class="a-link-normal"
-                                    href="http://jurnal.pppkmi.org/">Brand:
+                                    href="https://jurnal.pppkmi.org/">Brand:
                                     Mahjong</a> </div>
                         </div>
                         <div id="cmrsSummary_feature_div" class="celwidget" data-feature-name="cmrsSummary"
@@ -3515,7 +3515,7 @@
                                 </span> <span class="a-letter-space"></span> <span class="a-declarative"
                                     data-action="acrLink-click-metrics" data-csa-c-type="widget"
                                     data-csa-c-func-deps="aui-da-acrLink-click-metrics" data-acrLink-click-metrics="{}">
-                                    <a id="acrCustomerReviewLink" class="a-link-normal" href="http://jurnal.pppkmi.org/"> <span
+                                    <a id="acrCustomerReviewLink" class="a-link-normal" href="https://jurnal.pppkmi.org/"> <span
                                             id="acrCustomerReviewText" class="a-size-base">1.928.001 ratings</span> </a>
                                 </span>
                                 <script type="text/javascript">
@@ -3552,7 +3552,7 @@
                             <span class="askPipe"> | </span>
                             <span data-csa-c-type="widget" data-csa-c-slot-id="ask-atf-link-search-this-page"
                                 data-csa-c-content-id="ask-atf-link-search-this-page-content">
-                                <a id="askATFLink" class="a-link-normal askATFLink" href="http://jurnal.pppkmi.org/"> <span
+                                <a id="askATFLink" class="a-link-normal askATFLink" href="https://jurnal.pppkmi.org/"> <span
                                         class="a-size-base"> Search this page </span> </a> </span>
                         </div>
                         <div id="acBadge_feature_div" class="celwidget" data-feature-name="acBadge"
@@ -4066,7 +4066,7 @@
                                         <div id="variation_configuration" class="a-section a-spacing-small">
                                             <div class="a-row a-spacing-micro singleton"> <label class="a-form-label">
                                                     Configuration:
-                                                </label> <a href="http://jurnal.pppkmi.org/"><span class="selection">Mahjong</span></a>
+                                                </label> <a href="https://jurnal.pppkmi.org/"><span class="selection">Mahjong</span></a>
                                             </div>
                                         </div>
                                     </form>
@@ -4278,10 +4278,10 @@
                             data-csa-c-slot-id="featurebullets_feature_div" data-csa-c-asin="B0DG4WZZPV"
                             data-csa-c-is-in-initial-active-row="false">
                             
-                            <p><a href="http://jurnal.pppkmi.org/">Mahjong</a> dan slot online kini jadi dua permainan paling populer di dunia digital. Mahjong berasal dari Tiongkok dan dikenal sebagai permainan strategi menggunakan 144 tile unik. Sementara itu, slot berakar dari Amerika Serikat dan berkembang menjadi game dengan ribuan tema menarik dan jackpot besar.</p>
+                            <p><a href="https://jurnal.pppkmi.org/">Mahjong</a> dan slot online kini jadi dua permainan paling populer di dunia digital. Mahjong berasal dari Tiongkok dan dikenal sebagai permainan strategi menggunakan 144 tile unik. Sementara itu, slot berakar dari Amerika Serikat dan berkembang menjadi game dengan ribuan tema menarik dan jackpot besar.</p>
 <p>Keduanya punya daya tarik tersendiri. Mahjong menuntut strategi dan fokus, sedangkan slot lebih mengandalkan keberuntungan dan feeling. Namun, keduanya bisa jadi sumber hiburan sekaligus peluang menang jika dimainkan dengan bijak.</p>
 <p>Untuk Mahjong, penting memahami kombinasi seperti Pong, Chow, dan Kong, serta memperhatikan tile buangan lawan. Fokus dan kesabaran adalah kunci utama.</p>
-<p>Di sisi lain, bermain <a href="http://jurnal.pppkmi.org/">slot online</a> butuh strategi sederhana tapi efektif, seperti memilih mesin slot dengan RTP tinggi, memanfaatkan free spin, dan tahu kapan berhenti.</p>
+<p>Di sisi lain, bermain <a href="https://jurnal.pppkmi.org/">slot online</a> butuh strategi sederhana tapi efektif, seperti memilih mesin slot dengan RTP tinggi, memanfaatkan free spin, dan tahu kapan berhenti.</p>
 <p>Beberapa platform kini bahkan menghadirkan slot bertema Mahjong, menciptakan pengalaman unik yang menggabungkan dua dunia ini dalam satu game.</p>
 <p>Kesimpulannya, baik Mahjong maupun slot online bisa memberi hiburan dan tantangan. Selama Anda bermain dengan strategi dan kontrol, keduanya bisa menjadi permainan yang menyenangkan dan berpotensi menguntungkan.</p>
                             <br>
@@ -4292,7 +4292,7 @@
                                     data-csa-c-slot-id="voyager-product-details-jumplink" data-csa-c-type="link"
                                     class="a-section aok-hidden"> <span class="caretnext">&#155;</span> 
                                     <a
-                                        id="seeMoreDetailsLink" class="a-link-normal" href="http://jurnal.pppkmi.org/"> See more
+                                        id="seeMoreDetailsLink" class="a-link-normal" href="https://jurnal.pppkmi.org/"> See more
                                         product details </a> 
                                 </div>
                             </div>
@@ -9126,7 +9126,7 @@
                                                                                                     out of 5
                                                                                                     stars</span></i><span
                                                                                                 class="a-letter-space"></span>
-                                                                                            <span><a href="http://jurnal.pppkmi.org/">WD Mahjong Sampai Jutaan Bisa secepat Kilat!</a></span>
+                                                                                            <span><a href="https://jurnal.pppkmi.org/">WD Mahjong Sampai Jutaan Bisa secepat Kilat!</a></span>
                                                                                         </a></div><span
                                                                                         data-hook="review-date"
                                                                                         class="a-size-base a-color-secondary review-date">Reviewed
@@ -9144,7 +9144,7 @@
                                                                                                 <div data-hook="review-collapsed"
                                                                                                     data-expanded="false"
                                                                                                     class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content">
-                                                                                                    <span>Gacor bener bossqu! <a href="http://jurnal.pppkmi.org/">WD cepet</a> banget bahkan jika gw tarik sampe jutaan rupiah!<br /></span>
+                                                                                                    <span>Gacor bener bossqu! <a href="https://jurnal.pppkmi.org/">WD cepet</a> banget bahkan jika gw tarik sampe jutaan rupiah!<br /></span>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="a-expander-header a-expander-partial-collapse-header">
@@ -9178,7 +9178,7 @@
                                                                                                 <span
                                                                                                     class="a-button a-button-base"><span
                                                                                                         class="a-button-inner"><a
-                                                                                                            href="http://jurnal.pppkmi.org/"
+                                                                                                            href="https://jurnal.pppkmi.org/"
                                                                                                             data-hook="vote-helpful-button"
                                                                                                             class="a-button-text">
                                                                                                             <div
@@ -9197,10 +9197,10 @@
                                                                                                     data-action="reviews:report-abusive-review-modal-button"
                                                                                                     data-csa-c-type="widget"
                                                                                                     data-csa-c-func-deps="aui-da-reviews:report-abusive-review-modal-button"
-                                                                                                    data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;http://jurnal.pppkmi.org/&quot;}"
+                                                                                                    data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;https://jurnal.pppkmi.org/&quot;}"
                                                                                                     id="report-abusive-review-modal-popover-R2DVCU4L2UJJBX"><a
                                                                                                         class="a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal"
-                                                                                                        href="http://jurnal.pppkmi.org/">Report</a></span></span></span>
+                                                                                                        href="https://jurnal.pppkmi.org/">Report</a></span></span></span>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -9249,7 +9249,7 @@
                                                                                                     out of 5
                                                                                                     stars</span></i><span
                                                                                                 class="a-letter-space"></span>
-                                                                                            <span><a href="http://jurnal.pppkmi.org/">Mahjong Gacor!</a></span>
+                                                                                            <span><a href="https://jurnal.pppkmi.org/">Mahjong Gacor!</a></span>
                                                                                         </a></div><span
                                                                                         data-hook="review-date"
                                                                                         class="a-size-base a-color-secondary review-date">Reviewed
@@ -9267,7 +9267,7 @@
                                                                                                 <div data-hook="review-collapsed"
                                                                                                     data-expanded="false"
                                                                                                     class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content">
-                                                                                                    <span>Gw udah banyak cobain beberapa situs perjudian, tapi cuma <a href="http://jurnal.pppkmi.org/">Mahjong</a> aja yang bisa bikin gw untung sampai jutaan rupiah dalam beberapa kali spin aja. Udah gitu WD nya cepet banget, bisa langsung gw pake buat belanja bulanan. Mantap dah ni situs slot!<br /></span>
+                                                                                                    <span>Gw udah banyak cobain beberapa situs perjudian, tapi cuma <a href="https://jurnal.pppkmi.org/">Mahjong</a> aja yang bisa bikin gw untung sampai jutaan rupiah dalam beberapa kali spin aja. Udah gitu WD nya cepet banget, bisa langsung gw pake buat belanja bulanan. Mantap dah ni situs slot!<br /></span>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="a-expander-header a-expander-partial-collapse-header">
@@ -9301,7 +9301,7 @@
                                                                                                 <span
                                                                                                     class="a-button a-button-base"><span
                                                                                                         class="a-button-inner"><a
-                                                                                                            href="http://jurnal.pppkmi.org/"
+                                                                                                            href="https://jurnal.pppkmi.org/"
                                                                                                             data-hook="vote-helpful-button"
                                                                                                             class="a-button-text">
                                                                                                             <div
@@ -9373,7 +9373,7 @@
                                                                                                     out of 5
                                                                                                     stars</span></i><span
                                                                                                 class="a-letter-space"></span>
-                                                                                            <span><a href="http://jurnal.pppkmi.org/">Akses Terjangkau, DP WD Lancar</a></span>
+                                                                                            <span><a href="https://jurnal.pppkmi.org/">Akses Terjangkau, DP WD Lancar</a></span>
                                                                                         </a></div><span
                                                                                         data-hook="review-date"
                                                                                         class="a-size-base a-color-secondary review-date">Reviewed
@@ -9391,7 +9391,7 @@
                                                                                                 <div data-hook="review-collapsed"
                                                                                                     data-expanded="false"
                                                                                                     class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content">
-                                                                                                    <span>Hari hari makin mantap dengan main di Mahjong dengan banyak <a href="http://jurnal.pppkmi.org/">link alternatif</a> dan proses DP hingga WD yang cepat dan gak pake lama!<br /></span>
+                                                                                                    <span>Hari hari makin mantap dengan main di Mahjong dengan banyak <a href="https://jurnal.pppkmi.org/">link alternatif</a> dan proses DP hingga WD yang cepat dan gak pake lama!<br /></span>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="a-expander-header a-expander-partial-collapse-header">
@@ -9425,7 +9425,7 @@
                                                                                                 <span
                                                                                                     class="a-button a-button-base"><span
                                                                                                         class="a-button-inner"><a
-                                                                                                            href="http://jurnal.pppkmi.org/"
+                                                                                                            href="https://jurnal.pppkmi.org/"
                                                                                                             data-hook="vote-helpful-button"
                                                                                                             class="a-button-text">
                                                                                                             <div
