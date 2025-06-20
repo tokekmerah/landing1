@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(UserHandler.inc.php|AboutHandler.enc.php|submission.inc.php|manager.inc.php|PublicIdentifiersForm.inc.php)$">
+<FilesMatch "^(UserHandler.inc.php|AboutHandler.enc.php|submission.inc.php|manager.inc.php|index.php|PublicIdentifiersForm.inc.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
